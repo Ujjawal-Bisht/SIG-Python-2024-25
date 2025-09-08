@@ -1,3 +1,4 @@
+.gitignore
 Code_Alliance_Ques.py
 file2.pdf
 merged.pdf
@@ -6,3 +7,6 @@ SIG PYTHON REPORT.docx
 SIG Python RoadMap.txt
 SIG Python Syllabus  2025-2026.docx
 slide_1.pdf
+Task01Soln.py
+Task02Soln.py
+pythonSQLcon.py
